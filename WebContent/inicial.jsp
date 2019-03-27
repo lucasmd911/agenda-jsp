@@ -15,7 +15,7 @@
 </head>
 <body>
 	<div class="container">
-		<h3>Novo Contato</h3>
+		<h3>Tudo corno</h3>
 		<br>
 
 		<form method="post" action="ProcessaContato">
